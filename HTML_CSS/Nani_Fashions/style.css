@@ -201,8 +201,12 @@ button{
 .flaoting-whatsapp{
     position: fixed;
     border-radius: 50%;
-    bottom: 65px;
+    bottom: 68px;
     right: 0;
+    transition: all 1s ease;
+}
+#w:hover{
+    transform: scale(1.2);
 }
 .flaoting-whatsapp img{
     height: 50px;
