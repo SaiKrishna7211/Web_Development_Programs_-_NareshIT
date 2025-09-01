@@ -217,7 +217,7 @@ footer{
     font-size: 20px;
     padding: 20px 0px;
     background-color: rgb(6, 12, 53);
-    color: silver;
+    color: red;
     margin-top: 20px;
 }
 @media(max-width:576px){
