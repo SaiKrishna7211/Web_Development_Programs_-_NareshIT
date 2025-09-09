@@ -645,7 +645,7 @@ to {
         flex-direction: column;
         margin-bottom: 0;
       }
-      .lo
+      .lo{
         font-size: 30px;
       }
       .left{
@@ -677,9 +677,7 @@ to {
         align-items: center;
         gap: 10px;
         box-shadow: 5px 5px 10px blue;
-      }
-      
-      
+      }     
 }
 
 @media (min-width:577px) and (max-width:768px){
